@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xyz23333.github.io/</id>
     <title>light博客</title>
-    <updated>2022-01-16T06:37:54.028Z</updated>
+    <updated>2022-01-16T06:49:05.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xyz23333.github.io/"/>
     <link rel="self" href="https://xyz23333.github.io/atom.xml"/>
@@ -16,9 +16,7 @@
         <link href="https://xyz23333.github.io/post/ce-shi/">
         </link>
         <updated>2022-01-16T05:50:31.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<p>测试一下<img src="https://xyz23333.github.io//post-images/1642312280507.jpg" alt="" loading="lazy"></p>
-<!-- more -->
+        <content type="html"><![CDATA[<p>测试一下<img src="https://xyz23333.github.io//post-images/1642312280507.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
