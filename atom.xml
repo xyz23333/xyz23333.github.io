@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xyz23333.github.io/</id>
-    <title>Gridea</title>
-    <updated>2022-01-16T05:58:10.208Z</updated>
+    <title>light博客</title>
+    <updated>2022-01-16T06:02:40.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xyz23333.github.io/"/>
     <link rel="self" href="https://xyz23333.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>即使你我平凡，却亦在彼此的眼中闪闪发光</subtitle>
     <logo>https://xyz23333.github.io/images/avatar.png</logo>
     <icon>https://xyz23333.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, Gridea</rights>
+    <rights>All rights reserved 2022, light博客</rights>
     <entry>
         <title type="html"><![CDATA[测试]]></title>
         <id>https://xyz23333.github.io/post/ce-shi/</id>
